@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ClipboardSync</string>
+    <string name="accessibility_service_description">允许 ClipboardSync 在后台监控剪贴板变化，实现自动同步功能。\n\n此服务不会收集或存储您的个人信息。</string>
+</resources>
